@@ -26,8 +26,11 @@ Puedes ver el código y los detalles de las pruebas en el repositorio de GitHub:
   
 ## 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)
+### Mis Contribuciones y Actividad
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ITAP94&show_icons=true&theme=dark)
 
+### Lenguajes más utilizados
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ITAP94&layout=compact&theme=dark)
 ---
 
 Gracias por visitar mi perfil. 😊
