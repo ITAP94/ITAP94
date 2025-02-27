@@ -22,7 +22,9 @@ Puedes ver el código y los detalles de las pruebas en el repositorio de GitHub:
 - [Python](https://www.python.org/)
 - [Git](https://git-scm.com/)
 - [GitHub Actions](https://github.com/features/actions) para integración continua.
-- [Jenkins](https://www.jenkins.io/) (si aplicas Jenkins en tus pruebas).
+- [Postman](https://www.postman.com/) para pruebas de API.
+- [Cygwin](https://www.cygwin.com/) para entorno de línea de comandos en Windows.
+- [Android Studio](https://developer.android.com/studio) para desarrollo y pruebas de aplicaciones Android.
   
 ## 📊 Estadísticas
 
