@@ -2,7 +2,7 @@
 
 Soy una **QA Engineer** apasionada por la automatización de pruebas y la mejora continua de la calidad del software. Completé un **bootcamp en QA Engineering**, donde adquirí habilidades en pruebas manuales, automatización con Selenium, integración continua, y más. Me encanta asegurarme de que las aplicaciones sean confiables y fáciles de usar.
 
-## 🚀 Proyecto: [project-Urban-Routes](enlace-a-tu-repositorio)
+## 🚀 Proyecto: [project-Urban-Routes](https://github.com/ITAP94/project-Urban-Routes)
 
 Este proyecto es parte de mi trabajo durante el bootcamp. En él, he implementado pruebas automatizadas utilizando **Selenium** para verificar la funcionalidad de la aplicación Urban Routes, que incluye el proceso de solicitud de taxis, selección de métodos de pago, y confirmación de reservas. El proyecto cubre desde pruebas de regresión hasta pruebas de integración, garantizando que la aplicación funcione correctamente en diversos escenarios.
 
@@ -14,7 +14,7 @@ Este proyecto es parte de mi trabajo durante el bootcamp. En él, he implementad
 
 ### 🌟 Demostración:
 
-Puedes ver el código y los detalles de las pruebas en el repositorio de GitHub: [project-Urban-Routes](enlace-a-tu-repositorio).
+Puedes ver el código y los detalles de las pruebas en el repositorio de GitHub: [project-Urban-Routes](https://github.com/ITAP94/project-Urban-Routes)
 
 ## 🛠️ Tecnologías y Herramientas Utilizadas
 
