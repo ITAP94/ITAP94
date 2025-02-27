@@ -1,4 +1,4 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy Ingrid Alvarado! 👋
 
 Soy desarrollador(a) [tu especialización], apasionado(a) por [tus intereses o áreas de especialización]. Me encanta trabajar en proyectos de [menciona alguna área de enfoque, como desarrollo web, automatización de pruebas, etc.].
 
